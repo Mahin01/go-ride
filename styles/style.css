@@ -86,8 +86,15 @@ a{
     color: #7E848C;
 }
 
+/* Footer Area Styles */
 
- 
+.footer{
+    background: #0B0D17;
+}
+
+.footer a{
+    color: #FFFFFF;
+}
  
 
 /* Responsive Styles */
