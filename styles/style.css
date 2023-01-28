@@ -51,6 +51,43 @@ a{
     color: #FFFFFF !important;
     border: none;
  }
+
+ /* Feedback Section Styles */
+ .feedback h1{
+    color: #E76F51;
+ }
+
+ .feedback span{
+    color: #0A0826;
+ }
+
+ /* FAQ section styles */
+ .faq h1{
+    color: #0A0826;
+ }
+
+ .faq span{
+    color: #E76F51;
+ }
+
+ .faq .accordion-item{
+    padding: 20px 5px;
+    background: #FFFFFF;
+    border: 1px solid #D5E5FB;
+    border-radius: 5px;
+    margin-bottom: 20px;
+}
+
+.faq .accordion-header > button{
+    color: #383838;
+}
+
+.faq .accordion-body{
+    color: #7E848C;
+}
+
+
+ 
  
 
 /* Responsive Styles */
