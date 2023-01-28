@@ -10,3 +10,20 @@ li{
 a{
     text-decoration: none;
 }
+
+/* Header Area & Navigation Menu Styles */
+ header{
+    background-image: linear-gradient(90deg, #181818 0%, rgba(24, 24, 24, 0.822917) 24.48%, rgba(24, 24, 24, 0) 100%), url(../images/header-bg.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+ }
+
+ header a , .site-content{
+    color: #FFFFFF !important;
+ }
+
+ header .btn{
+    background: #E76F51;
+    border-radius: 5px;
+    padding: 10px 30px !important;
+ }
