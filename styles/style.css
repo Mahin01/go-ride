@@ -27,3 +27,18 @@ a{
     border-radius: 5px;
     padding: 10px 30px !important;
  }
+
+ /* Featured Bike section Styles */
+ .featured h6{
+    color: #E76F51;
+ }
+ 
+
+/* Responsive Styles */
+ @media screen and (max-width: 576px) {
+    /* Header Area Responsive styles */
+    header .site-content{
+        width: 100% !important;
+        text-align: center;
+    }
+ }
